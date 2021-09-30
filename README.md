@@ -16,7 +16,7 @@
 👉 `+kick @person raison`: kick someone from the server;  
 👉 `+ticket`: open a ticket;  
 👉 `+finirticket`: close your ticket;  
-👉 `+giveaway #channel time(10s,10m,10h,10j) winners(1,2,..) price(1€,PS5)`: create a giveaway in the chain you want with the time you want with the number of winners you want and the price of the giveaway;  
+👉 `+giveaway #channel time(10s,10m,10h,10j) winners(1,2,..) price(1€,PS5)`: create a giveaway in the channel you want with the time you want with the number of winners you want and the price of the giveaway;  
 👉 `+finirgiveaway messageID`: close the giveaway with the identification message;  
 👉 `+relancer messageID`: draws lots of new winners with the giveaway identification message;  
  
