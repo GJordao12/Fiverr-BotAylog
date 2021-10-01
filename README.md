@@ -3,6 +3,8 @@
 * **Language:** JavaScript and Node.js
 * **Project Description:** The objective of the project was to develop a Discord Bot with the requested [commands](/commands).
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Bot Commands
 👉 `+supprimer (message quantity 1-99):` deletes the number of inserted messages from the corresponding text channel;  
 👉 `+avatar`: show your avatar;  
@@ -18,8 +20,10 @@
 👉 `+finirgiveaway messageID`: close the giveaway with the identification message;  
 👉 `+relancer messageID`: draws lots of new winners with the giveaway identification message;  
 
-################################################################################################################################################
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Discord Bot Image:
 > <img src="https://github.com/GJordao12/Fiverr-DiscordBotAylog/blob/main/BotImage.png">
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
