@@ -2,8 +2,8 @@
 
 * **Language:** JavaScript and Node.js
 * **Project Description:** The objective of the project was to develop a Discord Bot with the requested [commands](/commands).
-* * **Discord Bot Image:**
-> <img src="">
+* **Discord Bot Image:**
+> <img src="https://github.com/GJordao12/Fiverr-DiscordBotAylog/blob/main/BotImage.png">
 
 ## Bot Commands
 👉 `+supprimer (message quantity 1-99):` deletes the number of inserted messages from the corresponding text channel;  
