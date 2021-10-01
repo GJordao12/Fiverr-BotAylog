@@ -18,6 +18,8 @@
 👉 `+finirgiveaway messageID`: close the giveaway with the identification message;  
 👉 `+relancer messageID`: draws lots of new winners with the giveaway identification message;  
 
+################################################################################################################################################
+
 ## Discord Bot Image:
 > <img src="https://github.com/GJordao12/Fiverr-DiscordBotAylog/blob/main/BotImage.png">
  
